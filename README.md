@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Sou um programador de C/C++ e python.
+- Sou extremamente confortavel com o terminal e sysadmining linux.
+- Tenho bons conhecimentos como um sistema operativo funciona e como usar lo headlessly.
+- Actualmente a estudar probalbidades, eletronica e win32 api.
