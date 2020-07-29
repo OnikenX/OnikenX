@@ -1,7 +1,7 @@
 ## About OnikenX 👋
 
 - I'm a C/C++, Java, Python and Bash programmer.
-- I'm confortabel and used to play with the terminal(bash and zsh) and Linux.
+- I'm comfortable and used to play with the terminal(bash and zsh) and Linux.
 
 ### Links
 
