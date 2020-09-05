@@ -6,7 +6,7 @@
 ### Links
 
 - [Gists page](https://gist.github.com/OnikenX/)
-- [See what I'm working on, on twitter](https://twitter.com/OnikenX_)
+- ~~[See what I'm working on, on twitter](https://twitter.com/OnikenX_)~~
 
 ### Main focus now:
 - Finishing the computer engeneering degree.
