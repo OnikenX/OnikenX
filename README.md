@@ -6,6 +6,7 @@
 ### Links
 
 - [Gists page](https://gist.github.com/OnikenX/)
+- [Some of my university works can be found here.](https://github.com/ISEC-estudantes/)
 - ~~[See what I'm working on, on twitter](https://twitter.com/OnikenX_)~~
 
 ### Main focus now:
