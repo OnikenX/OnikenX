@@ -12,3 +12,6 @@
 
 ### Main focus now:
 - Finishing the computer engeneering degree.
+
+### Projects
+- There is some personal projects that I want to do, they can be found [where](https://github.com/OnikenX?tab=projects).
