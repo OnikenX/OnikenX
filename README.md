@@ -1,9 +1,8 @@
 ## About OnikenX 👋
 
-- I'm a somewhat C/C++, Java, Python and Bash programmer (begginer).
+- I'm mainly a C/C++ and Rust Developer.
 - I'm comfortable to play with the terminal(bash and zsh) and Linux.
 - My main focus is in performance, modularity and readability in code.
-- Big fan of opensource.
 
 ### Links
 
